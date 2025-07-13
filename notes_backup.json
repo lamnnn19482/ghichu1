@@ -67,10 +67,10 @@
       "created_date": "2025-07-11"
     },
     {
-      "id": 41,
-      "text": "Backup file 3 bot",
-      "created_at": "2025-07-12",
-      "created_date": "2025-07-12"
+      "id": 42,
+      "text": "Hoàn thành tất cả file bot gọn lại",
+      "created_at": "2025-07-13",
+      "created_date": "2025-07-13"
     }
   ],
   "completed": [
@@ -275,6 +275,13 @@
       "text": "tạo lại indicator nt8 sao cho cây nến điều chỉnh lại nó xuất hiện",
       "created_at": "2025-07-11",
       "created_date": "2025-07-11",
+      "completed_at": "2025-07-12"
+    },
+    {
+      "id": 41,
+      "text": "Backup file 3 bot",
+      "created_at": "2025-07-12",
+      "created_date": "2025-07-12",
       "completed_at": "2025-07-12"
     }
   ]

@@ -65,6 +65,18 @@
       "text": "Phải mua được mazda 3 sport nên giờ phải bán đất để mua xe",
       "created_at": "2025-07-11",
       "created_date": "2025-07-11"
+    },
+    {
+      "id": 42,
+      "text": "Hoàn thành tất cả file bot gọn lại",
+      "created_at": "2025-07-13",
+      "created_date": "2025-07-13"
+    },
+    {
+      "id": 43,
+      "text": "Sống theo cách sống thích làm gì làm (  tự tạo cuộc đời )",
+      "created_at": "2025-07-13",
+      "created_date": "2025-07-13"
     }
   ],
   "completed": [
