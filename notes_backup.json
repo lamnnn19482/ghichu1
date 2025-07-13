@@ -1,0 +1,35 @@
+{
+  "pending": [
+    {
+      "id": 1,
+      "text": "tạo EA nt8",
+      "created_at": "2025-07-08",
+      "created_date": "2025-07-08"
+    },
+    {
+      "id": 2,
+      "text": "tạo BOT học tiếng anh",
+      "created_at": "2025-07-08",
+      "created_date": "2025-07-08"
+    },
+    {
+      "id": 3,
+      "text": "đất đai",
+      "created_at": "2025-07-08",
+      "created_date": "2025-07-08"
+    },
+    {
+      "id": 4,
+      "text": "Tư duy tích cực với mọi người mọi chuyện hết một ngày 8t7",
+      "created_at": "2025-07-08",
+      "created_date": "2025-07-08"
+    },
+    {
+      "id": 5,
+      "text": "Chỉ dùng icmarket",
+      "created_at": "2025-07-08",
+      "created_date": "2025-07-08"
+    }
+  ],
+  "completed": []
+}
